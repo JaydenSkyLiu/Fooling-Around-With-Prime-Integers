@@ -43,7 +43,7 @@ $$S_{p}\left(n\right)=\frac{1}{2+0.647927\cdot\left(n^{2.29843}\right)}$$
 | 6 | 13.630078 | 13 |
 | 7 | 16.929122 | 17 |
 
-&emsp;We can rectify this issue by only rounding the generated values from P(n) with ceiling.
+&emsp;We can rectify this issue by only rounding the generated values from $P(n)$ with ceiling.
 
 | $n$ | $P(n)$ | $A_{p}$ |
 | :---: | :---: | :---: |
