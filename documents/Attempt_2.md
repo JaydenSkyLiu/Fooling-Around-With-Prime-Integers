@@ -20,6 +20,7 @@ $$S_{p}\left(n\right)=\frac{1}{2+f\left(n\right)}$$
 | $\frac{1}{77}$ | 75 |
 
 &emsp;Upon generating a power regression equation for the values, lo and behold.
+
 ![](/images/Attempt_2/Attempt_2-Regress1.png)
 
 &emsp;Bingo. A regression equation with an $R^2$ value of 1, indicative that the regression equation is a perfect fit for all values present within the table in the $d$ column.
@@ -117,20 +118,25 @@ $$S_{p}\left(n\right)=\frac{1}{2+0.647927\cdot\left(n^{2.29843}\right)}$$
 | 200 | 1223 | $\frac{1}{111587}$ | 111585 |
 
 &emsp;Running the same power regression process as with the previous dataset, we get the following equation.
+
 ![](/images/Attempt_2/Attempt_2-Regress2.png)
 
 &emsp;There is quite a substantial difference between the regression equation generated with the new larger dataset compared to the previous smaller dataset, however. Whilst the first $S_{p}(n)$ equation, without the ceiling function, was $S_{p}\left(n\right)=\frac{1}{2+0.647927\left(n^{2.2984}\right)}$, the new $S_{p}(n)$ equation is $S_{p}\left(n\right)=\frac{1}{2+0.928914\left(n^{2.20778}\right)}$.
 
 &emsp;We may also begin to notice that there is a deviation between the $P(n)$ equation that used the first $S_{p}(n)$ formula, compared to the $P(n)$ equation that used the second $S_{p}(n)$ formula.
+
 ![](/images/Attempt_2/Attempt_2-Graph1.png)
 
 &emsp;We can also compare our graphs with the actual $n^{\text{th}}$ prime value.
+
 ![](/images/Attempt_2/Attempt_2-Graph2.png)
 
 &emsp;But wait—previously, I also used the ceiling function with the first $P(n)$ equation to turn continuous values into discrete integers. Using that function, we get the following graph when the ceiling function is employed both for the first $P(n)$ equation and the second $P(n)$ equation.
+
 ![](/images/Attempt_2/Attempt_2-Graph3.png)
 
 &emsp;…okay, admittedly, it’s confusing to interpret, but it seems as though the first $P(n)$ function was closer to the initial values than the second function. However, we also need to look at the larger scope and compare the accuracies of the first $P(n)$ function and the second $P(n)$ function as $n$ increases.
+
 ![](/images/Attempt_2/Attempt_2-Graph4.png)
 
 &emsp;Although initially the first P(n) equation seemed to match the primes closer than the second P(n) equation, as n grows larger, the second P(n) equation seemed more accurate than the first. However, it’s still not the best at generating primes.
