@@ -5,9 +5,11 @@
 **14/05/2026 - 16/05/2026**
 
 &emsp;My second attempt built upon the framework that was the first attempt. This time around, instead of focusing on the reciprocal prime sum, I focused moreso on creating an expression that would add upon the first reciprocal prime sum given $n$. If there was an equation that could somehow fit in the denominator, we would have that ratio change equation we needed in Attempt #1.
+
 $$S_{p}\left(n\right)=\frac{1}{2+f\left(n\right)}$$
 
 &emsp;In order to identify an equation for $f(n)$, I took the denominators from the $S_{p}$ column of the initial table and subtracted 2 from each denominator.
+
 | $S_{p}$ | $d$ |
 | :---: | :---: |
 | $\frac{1}{2}$ | 0 |
@@ -26,6 +28,7 @@ $$S_{p}\left(n\right)=\frac{1}{2+f\left(n\right)}$$
 &emsp;Bingo. A regression equation with an $R^2$ value of 1, indicative that the regression equation is a perfect fit for all values present within the table in the $d$ column.
 
 &emsp;Hence, we may formulate the following equation for $S_{p}(n)$.
+
 $$S_{p}\left(n\right)=\frac{1}{2+0.647927\cdot\left(n^{2.29843}\right)}$$
 
 &emsp;Using the $P(n)$ equation generated in Attempt #1, we may notice that, although the primes are pretty close to their actual values, there must be some rounding for the generated values through $P(n)$.
