@@ -1,5 +1,7 @@
 **Fooling Around With Prime Integers (2026)**
 
+Original versions of the documents listed in the Table of Contents below can be found in the [Original Documents](/original-documents) folder.
+
 **Table of Contents**
 
  - [Preface](/documents/Preface.md)
