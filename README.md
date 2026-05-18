@@ -1,6 +1,6 @@
 **Fooling Around With Prime Integers (2026)**
 
-Original versions of the documents listed in the Table of Contents below can be found in the [Original Documents](/original-documents) folder.
+Original versions of the documents listed in the Table of Contents below can be found in the [Original Documents](/original-documents) folder. These are direct exports from the Google Doc file. The documents listed in the Table of Contents are edited versions of the text from the Google Doc file, albeit minor changes.
 
 **Table of Contents**
 
