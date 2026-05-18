@@ -29,3 +29,11 @@ Original versions of the documents listed in the Table of Contents below can be 
      - **Last edited:** 17/05/2026
 
 *Last edited: 18/05/2026*
+
+**Miscellaneous Links:**
+
+- Desmos Graph: [The Reciprocal of the Sum of Primes (14/05/2026)](https://www.desmos.com/calculator/hk2xn1rmoa)
+
+- Desmos Graph: [Graph for Google Doc Journal (15/05/2026)](https://www.desmos.com/calculator/sci30ob4er)
+
+*Last edited: 18/05/2026*
