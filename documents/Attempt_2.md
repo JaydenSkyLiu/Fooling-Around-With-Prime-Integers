@@ -92,7 +92,7 @@ $$S_{p}\left(n\right)=\frac{1}{2+0.647927\cdot\left(n^{2.29843}\right)}$$
 | 90 | 510 | 463 |
 | 100 | 585 | 541 |
 
-&emsp;Looking at the $S_{p}(n)$ equation created, and comparing the values by the actual reciprocal sum, it is not difficult to see why there exists a slight fall-off between the actual prime integers and the generated prime integers.
+&emsp;Looking at the $S_{p}(n)$ equation created (edited with an additional floor function as $S_{p}(n) = \frac{1}{2+\left\lfloor0.647927\cdot\left(n^{2.29843}\right)\right\rfloor}$ ), and comparing the values by the actual reciprocal sum, it is not difficult to see why there exists a slight fall-off between the actual prime integers and the generated prime integers.
 
 | $A_{sp}$ | $S_{p}(n)$ |
 | :---: | :---: |
