@@ -105,7 +105,7 @@ $$S_{p}\left(n\right)=\frac{1}{2+0.647927\cdot\left(n^{2.29843}\right)}$$
 | 0.0172413793 | 0.017241379 |
 | 0.012987013 | 0.012658228 |
 
-&emsp;At around $n=8$, there is a significant deviation between $A_{sp}$ and $S_{p}(n)$. In fraction form, $A_{sp}$ is 1/77 when $n=8$, whereas $S_{p}(n)$ is 1/79 when $n=8$. This deviation translates over to our $P(n)$ equation, in which the generated prime created with $P(n)$ is offset to the actual prime number by 2.
+&emsp;At around $n=8$, there is a significant deviation between $A_{sp}$ and $S_{p}(n)$. In fraction form, $A_{sp}$ is $\frac{1}{77}$ when $n=8$, whereas $S_{p}(n)$ is $\frac{1}{79}$ when $n=8$. This deviation translates over to our $P(n)$ equation, in which the generated prime created with $P(n)$ is offset to the actual prime number by 2.
 
 &emsp;My initial thought was that, perchance, our sample size of prime integers wasn’t large enough, so I decided to increase the sample size to find a better match for $S_{p}(n)$.
 
