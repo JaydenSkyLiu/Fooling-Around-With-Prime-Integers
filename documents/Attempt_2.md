@@ -8,7 +8,7 @@
 
 $$S_{p}\left(n\right)=\frac{1}{2+f\left(n\right)}$$
 
-&emsp;In order to identify an equation for $f(n)$, I took the denominators from the $S_{p}$ column of the initial table and subtracted 2 from each denominator.
+&emsp;In order to identify an equation for $f(n)$, I took the denominators from the $S_{p}$ column containing the reciprocal prime sums between $n=1$ and $n=25$ and subtracted 2 from each denominator.
 
 | $S_{p}$ | $d$ |
 | :---: | :---: |
@@ -20,6 +20,8 @@ $$S_{p}\left(n\right)=\frac{1}{2+f\left(n\right)}$$
 | $\frac{1}{41}$ | 39 |
 | $\frac{1}{58}$ | 56 |
 | $\frac{1}{77}$ | 75 |
+| ... | ... |
+| $\frac{1}{1060}$ | $1058$ |
 
 &emsp;Upon generating a power regression equation for the values, lo and behold.
 
