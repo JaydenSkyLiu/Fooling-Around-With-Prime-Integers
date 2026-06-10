@@ -28,7 +28,15 @@ Original versions of the documents listed in the Table of Contents below can be 
      
      - **Last edited:** 19/05/2026
 
-*Last edited: 19/05/2026*
+- [Attempt #3](/documents/Attempt_3.md)
+
+     - **Written:** 06/06/2026 - 10/06/2026
+     
+     - **Published to GitHub:** 10/06/2026
+     
+     - **Last edited:** 10/06/2026
+
+*Last edited: 10/06/2026*
 
 **Miscellaneous Links:**
 
