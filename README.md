@@ -36,4 +36,6 @@ Original versions of the documents listed in the Table of Contents below can be 
 
 - Desmos Graph: [Graph for Google Doc Journal (15/05/2026)](https://www.desmos.com/calculator/sci30ob4er)
 
-*Last edited: 18/05/2026*
+- Desmos graph: [Primes Attempt #3: Sinusoidal Modifier (10/06/2026)](https://www.desmos.com/calculator/o4gwjwxtt2)
+
+*Last edited: 10/06/2026*
