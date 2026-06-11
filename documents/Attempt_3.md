@@ -36,7 +36,7 @@ $$P\left(n\right)=\left(0.0535953\cdot\sin\left(0.00508236n+0.58284\right)+0.949
 
 &emsp;Where:
 
-$$S_{p}\left(n\right)=\frac{1}{2+\lfloor0.928914\left(n^{2.20778}\right\rfloor}$$
+$$S_{p}\left(n\right)=\frac{1}{2+\lfloor0.928914\left(n^{2.20778}\right)\rfloor}$$
 
 &emsp;The following graph was generated using the sinusoidal modifier equation to the original $P(n)$ equation.
 
